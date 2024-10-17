@@ -1,1 +1,2 @@
 Initial Content for file A
+Conflicting merge process content
